@@ -12,8 +12,9 @@
 👯 I’m looking to collaborate on any project or product that requires Python and its libraries.  
 🤝 I’m looking for help with AI/ML chatbots that can do web scraping, extract data from databases, and also do data analysis.  
 🌱 I’m currently learning more about DSA, AI, ML, and advanced Python.  
-📝 I have a writing page on Instagram where I share my creative works. [Take a look!](https://www.instagram.com/this.isme.writing/)
 💬 Ask me anything about basic to intermediate Python, novels to read, and any Taylor Swift song!  
+📝 I have a writing page on Instagram where I share my creative works. [Take a look!](https://www.instagram.com/this.isme.writing/)
+
 ⚡ Fun fact: I love math (And, I'm real good at it!)
 🐈 Cat girlie, always!
 
