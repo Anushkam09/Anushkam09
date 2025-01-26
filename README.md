@@ -8,9 +8,8 @@
 
 ## 💫 **About Me:**
 
-🔭 I’m currently working on a Hackathon project.  <br>
+🔭 I’m currently working as an Software Development Intern @Propero<br>
 👯 I’m looking to collaborate on any project or product that requires Python and its libraries.  <br>
-🤝 I’m looking for help with AI/ML chatbots that can do web scraping, extract data from databases, and also do data analysis. <br>
 🌱 I’m currently learning more about DSA, AI, ML, and advanced Python.  <br>
 💬 Ask me anything about basic to intermediate Python, novels to read, and any Taylor Swift song!  <br>
 📝 I have a writing page on Instagram where I share my creative works. [Take a look!](https://www.instagram.com/this.isme.writing/) <br>
@@ -49,24 +48,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies:**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anushkam09&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 **GitHub Stats:**
-
-![](https://github-readme-stats.vercel.app/api?username=Anushkam09&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkam09&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=Anushkam09&theme=gruvbox&hide_border=false)  
-
----
-
-## 🗓️ **GitHub Contributions:**
-
-![Anushkam09's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Anushkam09&theme=gruvbox)
-
-
----
 
 
 
