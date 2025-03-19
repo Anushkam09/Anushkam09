@@ -2,7 +2,7 @@
 
 # 👋 Hello!  
 ### Hey, I'm Anushka Mahajan!  
-*Tech Enthusiast | Pythonista | AI/ML Explorer | Writing Hobbyist*  
+*Tech Enthusiast | Eat breathe and Sleep in Python | AI/ML Explorer | Love to write*  
 
 ---
 
